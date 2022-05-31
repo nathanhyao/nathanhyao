@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathan Yao, undergrad CS student @ Purdue University (Bachelor's 2020-2024).
 - 👀 I’m interested in creating meaningful software. Drawing and painting on the side.
-- 🌱 I’m currently learning web development and game development (exploring potential CS career paths).
+- 🌱 I’m currently learning web development and game development (exploring career paths).
 - 🔎 I’m looking for summer software internships.
 - 📫 How to reach me: [nathanhyao@gmail.com](nathanhyao@gmail.com), [Linkedin](https://www.linkedin.com/in/nhyao/).
 
