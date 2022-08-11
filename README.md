@@ -1,4 +1,4 @@
-Hello, I'm Nathan Yao. Current CS undergraduate @ Purdue University (2020-2024). Here are some of my coding projects.
+Hi, I'm Nathan Yao. CS undergrad @ Purdue (2020-2024).
 
 <!---
 nathanhyao/nathanhyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
