@@ -1,4 +1,7 @@
-I'm currently a CS major in the BS/MS 4+1 Accelerated Degree Program at Purdue University. My undergraduate concentration is in software engineering.
+I'm currently a Computer Science major in the BS/MS 4+1 Accelerated Degree Program at Purdue University - West Lafayette, IN. My undergraduate concentration is in software engineering. I'm currently looking for a software internship for summer 2024.
+- 👀 Please check out some of my relevant projects below. I personally like `ERP-app` and `social-media-app`.
+- 🌐 Check out my [webpage](https://nathanhyao.github.io/).
+- 📫 You can reach me through my email, [nathanhyao@gmail.com](nathanhyao@gmail.com), or [Linkedin](https://www.linkedin.com/in/nhyao/).
 
 <!---
 nathanhyao/nathanhyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
