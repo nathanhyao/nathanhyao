@@ -1,4 +1,4 @@
-Hi, I'm Nathan Yao. CS undergrad @ Purdue (2020-2024).
+I'm currently a CS major in the BS/MS 4+1 Accelerated Degree Program at Purdue University. My undergraduate concentration is in software engineering.
 
 <!---
 nathanhyao/nathanhyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
