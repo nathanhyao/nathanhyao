@@ -1,4 +1,4 @@
-I'm currently a Computer Science major in the BS/MS 4+1 Accelerated Degree Program at Purdue University - West Lafayette, IN. My undergraduate concentration is in software engineering. I'm currently looking for a software internship for summer 2024, where I will return the following year for grad school and obtain my Master's in May 2025.
+I'm currently a Computer Science major in the BS/MS 4+1 Accelerated Degree Program at Purdue University - West Lafayette, IN. My undergraduate concentration is in software engineering. I'm currently looking for a software internship for summer 2024, where I will return to grad school the following year and finish my Master's in May 2025.
 - 👀 Please check out some of my relevant projects below. I personally like `ERP-app` and `social-media-app`.
 - 🌐 Check out my [webpage](https://nathanhyao.github.io/) for a personal summary.
 - 📫 You can reach me through my email, [nathanhyao@gmail.com](nathanhyao@gmail.com), or [Linkedin](https://www.linkedin.com/in/nhyao/).
