@@ -1,4 +1,4 @@
-[webpage](https://nathanhyao.github.io/) | [nathanhyao@gmail.com](nathanhyao@gmail.com) | [Linkedin](https://www.linkedin.com/in/nhyao/).
+[webpage](https://nathanhyao.github.io/) | [nathanhyao@gmail.com](nathanhyao@gmail.com) | [Linkedin](https://www.linkedin.com/in/nhyao/)
 
 <!---
 nathanhyao/nathanhyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
